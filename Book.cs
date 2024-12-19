@@ -9,7 +9,6 @@ namespace Books
 {
     internal class Book
     {
-        private DateTime year;
         private string language;
         private int stock;
         private int price;
